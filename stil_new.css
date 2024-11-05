@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  color: blue;
+}
+h1 {
+  color: gold;
+}
+.backGrd {
+  background-color: blueviolet;
+}
